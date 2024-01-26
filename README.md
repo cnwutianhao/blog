@@ -15,4 +15,5 @@
  
   + [在 Kotlin Coroutines 中使用 launch、async、Channel 和 Flow](https://github.com/cnwutianhao/blog/issues/5)
 
- 
++ Ubuntu
+  + [Ubuntu 快捷方式存放位置](https://github.com/cnwutianhao/blog/issues/6)
