@@ -17,3 +17,6 @@
 
 + Ubuntu
   + [Ubuntu 快捷方式存放位置](https://github.com/cnwutianhao/blog/issues/6)
+
++ HarmonyOS
+  + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
