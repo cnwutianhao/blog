@@ -20,3 +20,4 @@
 
 + HarmonyOS
   + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
+  + [ArkTS 声明式 UI 基础概念](https://github.com/cnwutianhao/blog/issues/8)
