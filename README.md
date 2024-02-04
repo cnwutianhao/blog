@@ -25,4 +25,4 @@
   + [ArkUI 组件](https://github.com/cnwutianhao/blog/issues/9)
 
 ## Repo Activity
-![Repo Activity](https://repobeats.axiom.co/api/embed/5591f1b98e7e892daa7add3aaaa353906e9ef62b.svg "Repobeats analytics image")
+![Repo Activity](https://repobeats.axiom.co/api/embed/a10f09b5d6b3b788d6181535b6027a84589493e0.svg "Repobeats analytics image")
