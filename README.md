@@ -17,6 +17,7 @@
 
 + Ubuntu
   + [Ubuntu 快捷方式存放位置](https://github.com/cnwutianhao/blog/issues/6)
+  + [在基于 Ubuntu 或 Debian 的系统上创建启动图标(快捷方式)](https://github.com/cnwutianhao/blog/issues/10)
 
 + HarmonyOS
   + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
