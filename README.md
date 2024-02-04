@@ -3,6 +3,7 @@
 > 使用 GitHub Issues 写博客
 
 ## 博客分类
+
 + Android
   + [在 Android 应用中调用 C++ 代码并在新线程中执行 Java 静态方法](https://github.com/cnwutianhao/blog/issues/1)
 
@@ -25,4 +26,5 @@
   + [ArkUI 组件](https://github.com/cnwutianhao/blog/issues/9)
 
 ## Repo Activity
+
 ![Repo Activity](https://repobeats.axiom.co/api/embed/a10f09b5d6b3b788d6181535b6027a84589493e0.svg "Repobeats analytics image")
