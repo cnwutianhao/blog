@@ -25,6 +25,7 @@
   + [ArkTS 声明式 UI 基础概念](https://github.com/cnwutianhao/blog/issues/8)
   + [ArkUI 组件（一）- Image、Text、TextInput、Button、Slider 基本用法](https://github.com/cnwutianhao/blog/issues/9)
   + [ArkUI 组件（二）- 页面布局（Column、Row）](https://github.com/cnwutianhao/blog/issues/11)
+  + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
 
 ## Repo Activity
 
