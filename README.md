@@ -28,10 +28,10 @@
     + [ArkTS 声明式 UI 基础概念](https://github.com/cnwutianhao/blog/issues/8)
 
   + ArkUI
-    + [ArkUI 组件（一）- Image、Text、TextInput、Button、Slider 基本用法](https://github.com/cnwutianhao/blog/issues/9)
-    + [ArkUI 组件（二）- 页面布局（Column、Row）](https://github.com/cnwutianhao/blog/issues/11)
-    + [ArkUI 组件（三）- 循环控制（ForEach）](https://github.com/cnwutianhao/blog/issues/13)
-    + [ArkUI 组件（四）- 列表布局（List）](https://github.com/cnwutianhao/blog/issues/14)
+    + [ArkUI - Image、Text、TextInput、Button、Slider 基本用法](https://github.com/cnwutianhao/blog/issues/9)
+    + [ArkUI - 页面布局（Column、Row）](https://github.com/cnwutianhao/blog/issues/11)
+    + [ArkUI - 循环控制（ForEach）](https://github.com/cnwutianhao/blog/issues/13)
+    + [ArkUI - 列表布局（List）](https://github.com/cnwutianhao/blog/issues/14)
     
   + hdc
     + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
