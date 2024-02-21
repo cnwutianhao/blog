@@ -32,6 +32,7 @@
     + [ArkUI - 页面布局（Column、Row）](https://github.com/cnwutianhao/blog/issues/11)
     + [ArkUI - 循环控制（ForEach）](https://github.com/cnwutianhao/blog/issues/13)
     + [ArkUI - 列表布局（List）](https://github.com/cnwutianhao/blog/issues/14)
+    + [ArkUI - 自定义组件](https://github.com/cnwutianhao/blog/issues/15)
     
   + hdc
     + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
