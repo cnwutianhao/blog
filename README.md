@@ -7,6 +7,7 @@
 + Android
   + [View 与 ViewGroup](https://github.com/cnwutianhao/blog/issues/16)
   + [坐标系](https://github.com/cnwutianhao/blog/issues/17)
+  + [View 的滑动](https://github.com/cnwutianhao/blog/issues/18)
   + [在 Android 应用中调用 C++ 代码并在新线程中执行 Java 静态方法](https://github.com/cnwutianhao/blog/issues/1)
   + [Android 12 SystemUI 实现左侧导航栏](https://github.com/cnwutianhao/blog/issues/2)
 
