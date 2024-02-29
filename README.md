@@ -11,6 +11,7 @@
   + [属性动画](https://github.com/cnwutianhao/blog/issues/19)
   + [在 Android 应用中调用 C++ 代码并在新线程中执行 Java 静态方法](https://github.com/cnwutianhao/blog/issues/1)
   + [Android 12 SystemUI 实现左侧导航栏](https://github.com/cnwutianhao/blog/issues/2)
+  + [源码解析 Scroller](https://github.com/cnwutianhao/blog/issues/20)
 
 + Kotlin
   + [探索 Kotlin 中的回调机制：函数类型、高阶函数和接口](https://github.com/cnwutianhao/blog/issues/3)
