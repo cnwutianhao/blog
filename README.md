@@ -13,6 +13,7 @@
   + [Android 12 SystemUI 实现左侧导航栏](https://github.com/cnwutianhao/blog/issues/2)
   + [源码解析 Scroller](https://github.com/cnwutianhao/blog/issues/20)
   + [源码解析 Activity 的构成](https://github.com/cnwutianhao/blog/issues/21)
+  + [源码解析 View 的事件分发](https://github.com/cnwutianhao/blog/issues/22)
 
 + Kotlin
   + [探索 Kotlin 中的回调机制：函数类型、高阶函数和接口](https://github.com/cnwutianhao/blog/issues/3)
