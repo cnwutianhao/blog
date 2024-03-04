@@ -15,6 +15,9 @@
   + [源码解析 Activity 的构成](https://github.com/cnwutianhao/blog/issues/21)
   + [源码解析 View 的事件分发](https://github.com/cnwutianhao/blog/issues/22)
 
++ Java
+  + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
+
 + Kotlin
   + [探索 Kotlin 中的回调机制：函数类型、高阶函数和接口](https://github.com/cnwutianhao/blog/issues/3)
   + [Kotlin 使用 Channel 实现发布/订阅模式](https://github.com/cnwutianhao/blog/issues/4)
