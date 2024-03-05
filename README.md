@@ -17,6 +17,7 @@
 
 + Java
   + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
+  + [同步](https://github.com/cnwutianhao/blog/issues/24)
 
 + Kotlin
   + [探索 Kotlin 中的回调机制：函数类型、高阶函数和接口](https://github.com/cnwutianhao/blog/issues/3)
