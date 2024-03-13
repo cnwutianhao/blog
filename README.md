@@ -15,6 +15,7 @@
   + [源码解析 Activity 的构成](https://github.com/cnwutianhao/blog/issues/21)
   + [源码解析 View 的事件分发](https://github.com/cnwutianhao/blog/issues/22)
   + [源码中的单例模式](https://github.com/cnwutianhao/blog/issues/30)
+  + [源码中的建造者模式](https://github.com/cnwutianhao/blog/issues/31)
 
 + Java
   + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
