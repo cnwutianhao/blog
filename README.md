@@ -43,6 +43,7 @@
   + [ArkUI - 列表布局（List）](https://github.com/cnwutianhao/blog/issues/14)
   + [ArkUI - 自定义组件](https://github.com/cnwutianhao/blog/issues/15)
   + [ArkUI - 自定义卡片样式](https://github.com/cnwutianhao/blog/issues/29)
+  + [ArkUI - 向左/向右滑动删除](https://github.com/cnwutianhao/blog/issues/34)
   + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
 
 + 计算机网络
