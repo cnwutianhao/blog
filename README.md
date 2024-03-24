@@ -46,6 +46,7 @@
   + [ArkUI - 自定义卡片样式](https://github.com/cnwutianhao/blog/issues/29)
   + [ArkUI - 向左/向右滑动删除](https://github.com/cnwutianhao/blog/issues/34)
   + [ArkUI - 状态管理](https://github.com/cnwutianhao/blog/issues/36)
+  + [ArkUI - 页面路由](https://github.com/cnwutianhao/blog/issues/37)
   + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
 
 + 计算机网络
