@@ -19,6 +19,7 @@
   + [源码中的工厂方法模式](https://github.com/cnwutianhao/blog/issues/33)
   + [AOSP 架构](https://github.com/cnwutianhao/blog/issues/32)
   + [系统启动流程分析 —— init 进程启动过程](https://github.com/cnwutianhao/blog/issues/35)
+  + [系统启动流程分析 —— Zygote 进程启动过程](https://github.com/cnwutianhao/blog/issues/38)
 
 + Java
   + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
