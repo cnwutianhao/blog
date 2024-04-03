@@ -20,6 +20,7 @@
   + [AOSP 架构](https://github.com/cnwutianhao/blog/issues/32)
   + [系统启动流程分析 —— init 进程启动过程](https://github.com/cnwutianhao/blog/issues/35)
   + [系统启动流程分析 —— Zygote 进程启动过程](https://github.com/cnwutianhao/blog/issues/38)
+  + [系统启动流程分析 —— SystemServer 处理过程](https://github.com/cnwutianhao/blog/issues/42)
 
 + Java
   + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
