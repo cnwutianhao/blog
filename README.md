@@ -55,6 +55,7 @@
   + [ArkUI - 动画](https://github.com/cnwutianhao/blog/issues/43)
   + [Stage 模型 - 基本概念](https://github.com/cnwutianhao/blog/issues/45)
   + [Stage 模型 - 应用配置文件](https://github.com/cnwutianhao/blog/issues/47)
+  + [Stage 模型 - UIAbility 生命周期](https://github.com/cnwutianhao/blog/issues/48)
   + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
 
 + 计算机网络
