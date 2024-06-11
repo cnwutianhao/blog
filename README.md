@@ -59,6 +59,7 @@
   + [Stage 模型 - 页面及组件生命周期](https://github.com/cnwutianhao/blog/issues/49)
   + [Stage 模型 - UIAbility 的启动模式](https://github.com/cnwutianhao/blog/issues/50)
   + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
+  + [HUAWEI DevEco Studio 下载地址汇总](https://github.com/cnwutianhao/blog/issues/51)
 
 + 计算机网络
   + [网络分层](https://github.com/cnwutianhao/blog/issues/27)
