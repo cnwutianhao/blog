@@ -60,6 +60,7 @@
   + [Stage 模型 - UIAbility 的启动模式](https://github.com/cnwutianhao/blog/issues/50)
   + [网络连接 - Http 请求数据](https://github.com/cnwutianhao/blog/issues/52)
   + [网络请求 - 分页加载](https://github.com/cnwutianhao/blog/issues/53)
+  + [网络连接 - 第三方库 axios](https://github.com/cnwutianhao/blog/issues/54)
   + [hdc 环境变量设置](https://github.com/cnwutianhao/blog/issues/12)
   + [HUAWEI DevEco Studio 下载地址汇总](https://github.com/cnwutianhao/blog/issues/51)
 
