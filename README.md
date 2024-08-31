@@ -63,7 +63,3 @@
 ## 计算机网络
 + [网络分层](https://github.com/cnwutianhao/blog/issues/27)
 + [TCP 的三次握手与四次挥手](https://github.com/cnwutianhao/blog/issues/28)
-
-## Repo Activity
-
-![Repo Activity](https://repobeats.axiom.co/api/embed/a10f09b5d6b3b788d6181535b6027a84589493e0.svg "Repobeats analytics image")
