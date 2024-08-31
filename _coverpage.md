@@ -1,17 +1,14 @@
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
-## 字节飞扬
+## Tyhoo Wu
 
-- 互联网是有记忆的，我想留下一些成长的脚印。
+- Creativity + Efficiency = Success
 
 
-[GitHub](https://github.com/bytesfly/blog)
+[GitHub](https://github.com/cnwutianhao/blog)
 [开始阅读](README.md)
-
 
 
 <!-- 背景色 -->
 ![color](#fff)
-
-
 
