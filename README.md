@@ -34,6 +34,7 @@
 + [在基于 Ubuntu 或 Debian 的系统上创建启动图标(快捷方式)](https://github.com/cnwutianhao/blog/issues/10)
 + [Ubuntu 用 VMware 安装 macOS](https://github.com/cnwutianhao/blog/issues/41)
 + [在 Windows 和 Ubuntu 之间传输文件](https://github.com/cnwutianhao/blog/issues/44)
++ [dlopen(): error loading libfuse.so.2](https://github.com/cnwutianhao/blog/issues/57)
 
 ## HarmonyOS
 + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
