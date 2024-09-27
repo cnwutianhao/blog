@@ -36,6 +36,7 @@
 + [Ubuntu 用 VMware 安装 macOS](https://github.com/cnwutianhao/blog/issues/41)
 + [在 Windows 和 Ubuntu 之间传输文件](https://github.com/cnwutianhao/blog/issues/44)
 + [dlopen(): error loading libfuse.so.2](https://github.com/cnwutianhao/blog/issues/57)
++ [Unable to update "Snap Store"](https://github.com/cnwutianhao/blog/issues/59)
 
 ## HarmonyOS
 + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
