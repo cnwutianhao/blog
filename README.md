@@ -37,6 +37,7 @@
 + [在 Windows 和 Ubuntu 之间传输文件](https://github.com/cnwutianhao/blog/issues/44)
 + [dlopen(): error loading libfuse.so.2](https://github.com/cnwutianhao/blog/issues/57)
 + [Unable to update "Snap Store"](https://github.com/cnwutianhao/blog/issues/59)
++ [VMware Unable to install all modules](https://github.com/cnwutianhao/blog/issues/60)
 
 ## HarmonyOS
 + [了解 ArkTS 语言](https://github.com/cnwutianhao/blog/issues/7)
