@@ -30,6 +30,7 @@
 + [在 Kotlin Coroutines 中使用 launch、async、Channel 和 Flow](https://github.com/cnwutianhao/blog/issues/5)
 + [一篇文章带你了解 Flow](https://github.com/cnwutianhao/blog/issues/46)
 + [Flow 中的三个数据相关的操作符：debounce、buffer 和 conflate](https://github.com/cnwutianhao/blog/issues/56)
++ [Kotlin 必备实践：每位开发者都该掌握的技巧（Part 1）](https://github.com/cnwutianhao/blog/issues/62)
 
 ## Ubuntu
 + [Ubuntu 快捷方式存放位置](https://github.com/cnwutianhao/blog/issues/6)
