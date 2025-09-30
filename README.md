@@ -17,6 +17,7 @@
 + [系统启动流程分析 —— SystemServer 处理过程](https://github.com/cnwutianhao/blog/issues/42)
 + [为什么抛出异常时 app 会退出](https://github.com/cnwutianhao/blog/issues/58)
 + [Service 依赖注入为什么不能直接用 @Inject constructor](https://github.com/cnwutianhao/blog/issues/61)
++ [Android 强制使用 CPU 大核或超大核](https://github.com/cnwutianhao/blog/issues/64)
 
 ## Java
 + [线程的状态](https://github.com/cnwutianhao/blog/issues/23)
